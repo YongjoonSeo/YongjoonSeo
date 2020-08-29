@@ -10,7 +10,7 @@
 
 <div align=center>
 
-[![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://yongjoonseo.github.io/)](https://yongjoonseo.github.io/)&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yongjoon-seo-14907a1b6/)](https://www.linkedin.com/in/yongjoon-seo-14907a1b6/)
+[![Development Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://yongjoonseo.github.io/)](https://yongjoonseo.github.io/)&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yongjoon-seo-14907a1b6/)](https://www.linkedin.com/in/yongjoon-seo-14907a1b6/)
 
 </div>
 
@@ -27,7 +27,7 @@
 
 **Languages and Tools:**
 
-<code><img height="25" src="https://user-images.githubusercontent.com/47657852/91640780-fbc26a00-ea5a-11ea-8640-6ccccd81bd2b.png"></code>&nbsp;<code><img height="25" src="https://user-images.githubusercontent.com/47657852/91640777-f9f8a680-ea5a-11ea-8f8d-989abee88ccf.png"></code>&nbsp;<code><img height="25" src="https://user-images.githubusercontent.com/47657852/91640784-fcf39700-ea5a-11ea-836e-87ae7b4de513.png"></code>&nbsp;<code><img height="25" src="https://user-images.githubusercontent.com/47657852/91640783-fc5b0080-ea5a-11ea-8b0b-7598cbfa51ba.png"></code>&nbsp;<code><img height="25" src="https://user-images.githubusercontent.com/47657852/91640785-fd8c2d80-ea5a-11ea-849b-7ddca81ccf22.png"></code>
+&nbsp;&nbsp;&nbsp;&nbsp;<code><img height="25" src="https://user-images.githubusercontent.com/47657852/91640780-fbc26a00-ea5a-11ea-8640-6ccccd81bd2b.png"></code>&nbsp;&nbsp;<code><img height="25" src="https://user-images.githubusercontent.com/47657852/91640777-f9f8a680-ea5a-11ea-8f8d-989abee88ccf.png"></code>&nbsp;&nbsp;<code><img height="25" src="https://user-images.githubusercontent.com/47657852/91640784-fcf39700-ea5a-11ea-836e-87ae7b4de513.png"></code>&nbsp;&nbsp;<code><img height="25" src="https://user-images.githubusercontent.com/47657852/91640783-fc5b0080-ea5a-11ea-8b0b-7598cbfa51ba.png"></code>&nbsp;&nbsp;<code><img height="25" src="https://user-images.githubusercontent.com/47657852/91640785-fd8c2d80-ea5a-11ea-849b-7ddca81ccf22.png"></code>
 
 <br>
 
