@@ -33,7 +33,7 @@
 
 <details>
 <summary><strong>📈 My GitHub Stats</strong></summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yongjoonseo&show_icons=true&theme=vue-dark&hide=stars,issues" alt="yongjoonseo" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yongjoonseo&show_icons=true&theme=vue-dark&hide=stars" alt="yongjoonseo" />
 </details>
 
 
