@@ -25,9 +25,9 @@
 
 <br>
 
-**Languages and Tools:**
+**Experiences and Skills:**
 
-&nbsp;&nbsp;&nbsp;&nbsp;<code><img height="25" src="https://user-images.githubusercontent.com/47657852/91640780-fbc26a00-ea5a-11ea-8640-6ccccd81bd2b.png"></code>&nbsp;&nbsp;<code><img height="25" src="https://user-images.githubusercontent.com/47657852/91640777-f9f8a680-ea5a-11ea-8f8d-989abee88ccf.png"></code>&nbsp;&nbsp;<code><img height="25" src="https://user-images.githubusercontent.com/47657852/91640784-fcf39700-ea5a-11ea-836e-87ae7b4de513.png"></code>&nbsp;&nbsp;<code><img height="25" src="https://user-images.githubusercontent.com/47657852/91640783-fc5b0080-ea5a-11ea-8b0b-7598cbfa51ba.png"></code>&nbsp;&nbsp;<code><img height="25" src="https://user-images.githubusercontent.com/47657852/91640785-fd8c2d80-ea5a-11ea-849b-7ddca81ccf22.png"></code>
+![tech stack](https://user-images.githubusercontent.com/47657852/103340450-6f3abd80-4ac7-11eb-8c3e-cf6e95399b5d.JPG)
 
 <br>
 
