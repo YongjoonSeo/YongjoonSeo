@@ -9,7 +9,7 @@
 </div>
 
 <div align=center>
-[![Development Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://yongjoonseo.github.io/)](https://yongjoonseo.github.io/)&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yongjoon-seo-14907a1b6/)](https://www.linkedin.com/in/yongjoon-seo-14907a1b6/)&nbsp;&nbsp;&nbsp;&nbsp;[![Development Blog Badge](https://img.shields.io/badge/-Portfolio-D9730D?style=flat-square&logo=notion&link=https://www.notion.so/Yongjoon-Seo-0df7b8f8a26249fcac4fe3ac074bc2e5)](https://www.notion.so/Yongjoon-Seo-0df7b8f8a26249fcac4fe3ac074bc2e5)
+[![Development Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://yongjoonseo.github.io/)](https://yongjoonseo.github.io/)&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yongjoon-seo-14907a1b6/)](https://www.linkedin.com/in/yongjoon-seo-14907a1b6/)&nbsp;&nbsp;&nbsp;&nbsp;[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-D9730D?style=flat-square&logo=notion&link=https://www.notion.so/Yongjoon-Seo-0df7b8f8a26249fcac4fe3ac074bc2e5)](https://www.notion.so/Yongjoon-Seo-0df7b8f8a26249fcac4fe3ac074bc2e5)
 
 </div>
 
